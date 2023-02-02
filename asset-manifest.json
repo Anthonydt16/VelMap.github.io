@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/VelMap.github.io/static/css/main.7a416bff.css",
-    "main.js": "/VelMap.github.io/static/js/main.2cd2c66f.js",
-    "static/js/787.de24e70e.chunk.js": "/VelMap.github.io/static/js/787.de24e70e.chunk.js",
-    "static/media/hacker.otf": "/VelMap.github.io/static/media/hacker.8afdc1fe425ffcd745c7.otf",
-    "static/media/background.svg": "/VelMap.github.io/static/media/background.3bea697402eec63354ba.svg",
-    "index.html": "/VelMap.github.io/index.html",
-    "main.7a416bff.css.map": "/VelMap.github.io/static/css/main.7a416bff.css.map",
-    "main.2cd2c66f.js.map": "/VelMap.github.io/static/js/main.2cd2c66f.js.map",
-    "787.de24e70e.chunk.js.map": "/VelMap.github.io/static/js/787.de24e70e.chunk.js.map"
+    "main.css": "/Td_React/static/css/main.fba6a26e.css",
+    "main.js": "/Td_React/static/js/main.659d0202.js",
+    "static/js/787.de24e70e.chunk.js": "/Td_React/static/js/787.de24e70e.chunk.js",
+    "static/media/hacker.otf": "/Td_React/static/media/hacker.8afdc1fe425ffcd745c7.otf",
+    "static/media/background.svg": "/Td_React/static/media/background.3bea697402eec63354ba.svg",
+    "index.html": "/Td_React/index.html",
+    "main.fba6a26e.css.map": "/Td_React/static/css/main.fba6a26e.css.map",
+    "main.659d0202.js.map": "/Td_React/static/js/main.659d0202.js.map",
+    "787.de24e70e.chunk.js.map": "/Td_React/static/js/787.de24e70e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7a416bff.css",
-    "static/js/main.2cd2c66f.js"
+    "static/css/main.fba6a26e.css",
+    "static/js/main.659d0202.js"
   ]
 }
