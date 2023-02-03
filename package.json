@@ -2,7 +2,6 @@
   "name": "td_react",
   "version": "0.1.0",
   "private": true,
-  "publicPath": "/VelMap.github.io/",
   "homepage": "https://anthonydt16.github.io/VelMap.github.io/",
   "dependencies": {
     "@changey/react-leaflet-markercluster": "^4.0.0-rc1",

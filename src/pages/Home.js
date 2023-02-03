@@ -11,8 +11,8 @@ const Home = () => {
 
     function click(e) {
         e.preventDefault();
-        //redirige vers la page de recherche
-        window.location.href = "/recherche";
+        //redirige vers la page de recherche avec router react
+        window.location.href = "https://anthonydt16.github.io/VelMap.github.io/#/recherche";
     }
 
 

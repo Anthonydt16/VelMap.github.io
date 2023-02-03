@@ -1,6 +1,7 @@
 import React, {useEffect, useState} from 'react';
 import NavBar from "../components/NavBar";
 import Map from "../components/Map";
+import {NavLink} from "react-router-dom";
 const Recherche = () => {
     const [search, setSearch] = useState([]);
     const [searchResult, setSearchResult] = useState([]);
@@ -44,7 +45,7 @@ const Recherche = () => {
                                 <div className={"card"} key={key}>
                                     <h2><span className={"flag"}>{getFlag()}</span>{searchR.name}</h2>
                                     <p>{searchR.commercial_name}</p>
-                                    <a className={"button"} href={"/carte/" + searchR.name}>Voir les stations sur carte</a>
+                                    <NavLink to={"/carte/" + searchR.name} className={"button"}>Voir les stations sur carte</NavLink>
                                 </div>
                             )})}
                         </div>
